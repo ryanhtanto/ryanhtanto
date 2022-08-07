@@ -10,7 +10,7 @@ You can see my portofolio on [Ryan Portofolio](https://ryanhertanto-portofolio.n
 
   [Linkedin](https://www.linkedin.com/in/ryan-hertanto-06aa531b6/).
   
-  E-mail : ryanherrtanto@gmail.com
+  ryanherrtanto@gmail.com
   
   [Instagram](https://www.instagram.com/_ryanhertanto/)
 

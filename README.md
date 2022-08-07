@@ -7,7 +7,8 @@ I’m currently working as a Website Frontend Developer
 You can see my portofolio on [Ryan Portofolio](https://ryanhertanto-portofolio.netlify.app/).
 
 - 📫 How to reach me : 
-  [Linkedin](https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/ryan-hertanto-06aa531b6/).
+  [Linkedin](https://www.linkedin.com/in/ryan-hertanto-06aa531b6/).
+  
   E-mail : ryanherrtanto@gmail.com
   [Instagram](https://www.instagram.com/_ryanhertanto/)
 

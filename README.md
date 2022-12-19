@@ -4,7 +4,7 @@ My name is **Ryan Hertanto**.
 
 I’m currently working as a Website Frontend Developer
 
-You can see my portofolio on [My Portofolio](https://ryanhertanto-portofolio.netlify.app/).
+You can see my portofolio on [My Portofolio](https://portofolio-ryanhtanto.vercel.app/).
 
 - 📫 How to reach me : 
 

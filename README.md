@@ -5,11 +5,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## About Me
 - Name: Ryan Hertanto
 - Location: [Tangerang, Banten]
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ryan-hertanto-06aa531b6/)
-- GitHub: [Your GitHub Profile](https://github.com/your-usernameryanhtanto)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ryan-hertanto-06aa531b6/)
+- Portofoliio: [My Portofolio Project](https://portofolio-ryanhtanto.vercel.app/)
 
 ## My GitHub Stats
-[![Ryan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)](https://github.com/ryanhtanto)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanhtanto&show_icons=true&count_private=true)](https://github.com/ryanhtanto)
 
 ## Technologies and Tools
 Here are some technologies and tools that I'm familiar with:
@@ -25,7 +25,7 @@ Here are some technologies and tools that I'm familiar with:
 Feel free to explore my repositories to find more interesting projects!
 
 ## Contact Me
-I'm always interested in connecting with fellow developers and exploring new opportunities. You can reach out to me via email at [your-email@example.com] or connect with me on LinkedIn.
+I'm always interested in connecting with fellow developers and exploring new opportunities. You can reach out to me via email at [ryanherrtanto@gmail.com] or connect with me on LinkedIn.
 
 Let's collaborate and build amazing things together!
 <!--

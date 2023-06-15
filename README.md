@@ -1,6 +1,6 @@
 # Hello, I'm Ryan Hertanto! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development and software engineering.
+Welcome to my GitHub profile! I am a highly skilled web developer specializing in frontend React development and backend Laravel development, with expertise in HTML, Javascript, CSS, and the Bootstrap framework. With a strong passion for creating visually appealing and user-friendly web applications, I have successfully delivered projects from either frontend or backend technologies.
 
 ## About Me
 - Name: Ryan Hertanto

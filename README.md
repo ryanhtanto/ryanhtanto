@@ -8,9 +8,6 @@ Welcome to my GitHub profile! I am a highly skilled web developer specializing i
 - LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ryan-hertanto-06aa531b6/)
 - Portofoliio: [My Portofolio Project](https://portofolio-ryanhtanto.vercel.app/)
 
-## My GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanhtanto&show_icons=true&count_private=true)](https://github.com/ryanhtanto)
-
 ## Technologies and Tools
 Here are some technologies and tools that I'm familiar with:
 - Programming Languages: JavaScript, HTML, CSS
@@ -29,6 +26,9 @@ I'm always interested in connecting with fellow developers and exploring new opp
 
 Let's collaborate and build amazing things together!
 <!--
+
+## My GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ryanhtanto&show_icons=true&count_private=true)](https://github.com/ryanhtanto)
 **ryanhtanto/ryanhtanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 https://www.dicoding.com/academies/317/tutorials/17226?from=17221
 Here are some ideas to get you started:
